@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,training_time_seconds,training_time_minutes,epochs_trained
+ResNet50,0.8456419624217119,0.8625740289324377,0.6969655831956314,0.7246142528349662,0.8514342156651671,0.8456419624217119,0.8216473641475334,5095.5545608997345,84.92590934832891,18

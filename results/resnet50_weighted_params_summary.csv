@@ -1,0 +1,2 @@
+model,total_params,trainable_params,non_trainable_params
+ResNet50 Weighted,23595908,8196,23587712

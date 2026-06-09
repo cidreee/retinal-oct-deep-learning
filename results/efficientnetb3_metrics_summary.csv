@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,training_time_seconds,training_time_minutes,epochs_trained
+EfficientNetB3,0.8740866388308977,0.8428288532891235,0.7900633262565064,0.8103407123607965,0.8687767693528673,0.8740866388308977,0.8683109126357945,6139.241065263748,102.32068442106247,20

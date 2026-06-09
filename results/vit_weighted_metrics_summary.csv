@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,training_time_seconds,training_time_minutes,epochs_trained
+Vision Transformer Weighted,0.9677713987473904,0.9504637076113545,0.9578966472940909,0.9540791230967713,0.9682466213366056,0.9677713987473904,0.9679349111633617,10405.722368001938,173.42870613336564,15

@@ -1,0 +1,2 @@
+model,total_params,trainable_params,non_trainable_params
+EfficientNetB3,10789683,6148,10783535.0
