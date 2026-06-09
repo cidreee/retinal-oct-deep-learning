@@ -1,0 +1,23 @@
+# Core numerical and data processing
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+opencv-python
+
+# Deep learning - TensorFlow/Keras models
+tensorflow
+
+# Deep learning - PyTorch / Vision Transformer
+torch
+torchvision
+timm
+
+# Jupyter environment
+jupyter
+jupyterlab
+ipykernel
+
+# Optional utilities
+tqdm
