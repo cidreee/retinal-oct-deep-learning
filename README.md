@@ -73,15 +73,8 @@ retinal-oct-deep-learning/
 │   ├── 06_resnet50_weighted_kermany2018.ipynb
 │   ├── 07_efficientnetb3_weighted_kermany2018.ipynb
 │   └── 08_vit_weighted_kermany2018.ipynb
-├── results/
-│   ├── metrics/
-│   ├── figures/
-│   └── confusion_matrices/
-├── paper/
-│   ├── paper_final.docx
-│   └── paper_final.pdf
-└── models/
-    └── README.md
+└── results
+
 ```
 
 ## Notebooks
